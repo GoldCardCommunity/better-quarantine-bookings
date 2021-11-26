@@ -32,7 +32,13 @@ let theme = createTheme({
 			letterSpacing: '0px',
 			fontFamily: 'Dosis, sans-serif'
 		},
-    h6: {
+    h4: {
+			color: '#424242',
+			fontSize: '32px',
+			fontWeight: '400',
+			letterSpacing: '0px',
+		},
+		h6: {
 			color: '#616161',
 			fontWeight: '300',
 			letterSpacing: '0px',

@@ -22,7 +22,7 @@ export const NavigationMenu = (props) => (
 						UX Research
 					</Typography>
 				</Link>
-				<Link underline="hover" color="inherit" href="https://github.com/GoldCardCommunity/better-quarantine-bookings/discussions" target="_blank">
+				<Link underline="hover" color="inherit" href="https://github.com/GoldCardCommunity/better-quarantine-bookings/discussions/4" target="_blank">
 					<Typography fontSize={16} fontWeight={500} color="#FF4B55">
 						<u>Join the Discussion!</u>
 					</Typography>
