@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/better-quarantine-bookings/static/css/main.4213a85c.chunk.css",
+    "main.js": "/better-quarantine-bookings/static/js/main.5091bab6.chunk.js",
+    "main.js.map": "/better-quarantine-bookings/static/js/main.5091bab6.chunk.js.map",
+    "runtime-main.js": "/better-quarantine-bookings/static/js/runtime-main.8764f864.js",
+    "runtime-main.js.map": "/better-quarantine-bookings/static/js/runtime-main.8764f864.js.map",
+    "static/js/2.6623a2d4.chunk.js": "/better-quarantine-bookings/static/js/2.6623a2d4.chunk.js",
+    "static/js/2.6623a2d4.chunk.js.map": "/better-quarantine-bookings/static/js/2.6623a2d4.chunk.js.map",
+    "static/js/3.72a0405e.chunk.js": "/better-quarantine-bookings/static/js/3.72a0405e.chunk.js",
+    "static/js/3.72a0405e.chunk.js.map": "/better-quarantine-bookings/static/js/3.72a0405e.chunk.js.map",
+    "index.html": "/better-quarantine-bookings/index.html",
+    "static/css/main.4213a85c.chunk.css.map": "/better-quarantine-bookings/static/css/main.4213a85c.chunk.css.map",
+    "static/js/2.6623a2d4.chunk.js.LICENSE.txt": "/better-quarantine-bookings/static/js/2.6623a2d4.chunk.js.LICENSE.txt",
+    "static/media/bqb-logo.5fad5446.png": "/better-quarantine-bookings/static/media/bqb-logo.5fad5446.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8764f864.js",
+    "static/js/2.6623a2d4.chunk.js",
+    "static/css/main.4213a85c.chunk.css",
+    "static/js/main.5091bab6.chunk.js"
+  ]
+}
