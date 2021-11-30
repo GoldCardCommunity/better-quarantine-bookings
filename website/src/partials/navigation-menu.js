@@ -14,12 +14,12 @@ export const NavigationMenu = (props) => (
 			<Breadcrumbs aria-label="breadcrumb">
 				<Link underline="hover" color="inherit" href="#problem">
 					<Typography fontSize={16} fontWeight={300}>
-						The Problem
+						Problem
 					</Typography>
 				</Link>
 				<Link underline="hover" color="inherit" href="#research">
 					<Typography fontSize={16} fontWeight={300}>
-						UX Research
+						Research
 					</Typography>
 				</Link>
 				<Link underline="hover" color="inherit" href="https://github.com/GoldCardCommunity/better-quarantine-bookings/discussions/4" target="_blank">
